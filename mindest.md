@@ -13,3 +13,4 @@ is trem refer to individual who use perseverance and effort; intelligence and ta
 
 
 to know more [visit this website](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
