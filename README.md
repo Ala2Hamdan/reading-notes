@@ -9,5 +9,5 @@ name document | contennt
 --------------------------
 [Read02b](https://github.com/Ala2Hamdan/reading-notes/blob/main/read02b) | Branching
 --------------------------
-[Mindest](https://github.com/Ala2Hamdan/reading-notes/blob/main/mindest.md) | Mindest
+[Mindest](https://ala2hamdan.github.io/reading-notes/mindest) | Mindest
 
