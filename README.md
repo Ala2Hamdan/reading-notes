@@ -3,7 +3,7 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 # conntent
 name document | contennt 
 --------------------------
-[README.MD](https://github.com/Ala2Hamdan/reading-notes/blob/main/README.md)| Introdaction and Contents
+[README.MD](https://ala2hamdan.github.io/reading-notes/)| Introdaction and Contents
 -------------------------------------
 [Read02a](https://ala2hamdan.github.io/reading-notes/read02a) | Markdown
 ------------------------------------
@@ -11,4 +11,4 @@ name document | contennt
 ------------------------------------------
 [Mindest](https://ala2hamdan.github.io/reading-notes/mindest) | Mindest
 --------------------------------------
-[Read03b](https://ala2hamdan.github.io/reading-notes/Read03b.md) | Structure web pages with HTML
+[Read03b](https://ala2hamdan.github.io/reading-notes/Read03b) | Structure web pages with HTML
