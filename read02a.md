@@ -10,11 +10,3 @@ Inline code  `<addr>` .
 GitHub Flavored Markdown  :GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features, many of which make it easier to work with content on GitHub.com.
 Syntax highlighting  :you can add (```javascript) You can also simply indent your code by four spaces
 
-some commands and what we are using :
-
-* git remote -v : you can view all the remote URLs next to their corresponding short names
-* git remote add shortname url  :   To create a new remote Git repository with a short name
-* git fetch [remote-name]  :  Fetching entails pulling data that you don’t have from a remote project 
-* git fetch  :  solely pulls new data to a local repository; it does not merge changes with or modify your local work
-* git push origin master  :  This command pushes committed changes from your local “master” branch upstream to the “origin” server
-* git commit --amend : when you need to alter a commit message or forgot to add some files.
