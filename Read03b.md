@@ -46,17 +46,17 @@ Site navigation not only helps people find where they want to go, but also helps
 
 
 * # New Html5 Layout Elements :
-#### Headers & Footers <header> <footer>
-The <header> and <footer> elements can be used for:
+#### Headers & Footers '<header> <footer>'
+The header and footer elements can be used for:
 * The main header or footer that appears at the top or bottom of every page on the site.
 * A header or footer for an individual <article> or<section> within the page.
 #### Navigation <nav>
-The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+The '<nav>' element is used to contain the major navigational blocks on the site such as the primary site navigation.
 #### Articles <article>
 The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated
 #### Article <aside>
 The <aside> element has two purposes, depending on whether it is inside an <article> element or not.
-When the <aside> element is used inside an <article>
+When the '<aside>' element is used inside an <article>
 element, it should contain information that is related to the article but not essential to its overall meaning.
 When the <aside> element is used outside of an<article>
 element, it acts as a container for content that is related to the entire page .

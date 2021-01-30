@@ -4,10 +4,11 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 name document | contennt 
 --------------------------
 [README.MD](https://github.com/Ala2Hamdan/reading-notes/blob/main/README.md)| Introdaction and Contents
----------------------------
-[Read02a](https://github.com/Ala2Hamdan/reading-notes/blob/main/read02a) | Markdown
---------------------------
-[Read02b](https://github.com/Ala2Hamdan/reading-notes/blob/main/read02b) | Branching
---------------------------
+-------------------------------------
+[Read02a](https://ala2hamdan.github.io/reading-notes/read02a) | Markdown
+------------------------------------
+[Read02b](https://ala2hamdan.github.io/reading-notes/read02b) | Branching
+------------------------------------------
 [Mindest](https://ala2hamdan.github.io/reading-notes/mindest) | Mindest
-
+--------------------------------------
+[Read03b](https://ala2hamdan.github.io/reading-notes/Read03b.md) | Structure web pages with HTML
