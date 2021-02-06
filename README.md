@@ -27,3 +27,11 @@ is about notes and what i will summarize from
 # Code 201 Reading Notes: 
 |name document | content |
 |----|-----|
+| [class-01]( ) | a review of HTML & CSS & JS |
+|-----|-----|
+|    |    |
+|----|-----|
+|    |     |
+|-----|----|
+|     |   |
+|----|---|
