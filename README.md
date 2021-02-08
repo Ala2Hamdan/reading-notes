@@ -28,10 +28,11 @@ is about notes and what i will summarize from
 |name document | content |
 |----|-----|
 | [class-01](https://ala2hamdan.github.io/reading-notes/class-01 ) | a review of HTML & CSS & JS |
-|-----|-----|
-|    |    |
+|[class-02](https://ala2hamdan.github.io/reading-notes/class-02)|HTML TEXT && JS CONDITION|
+| [class-03]()  |HTML( LIST & BOXES) & JS(switch statements)   |
 |----|-----|
 |    |     |
 |-----|----|
 |     |   |
 |----|---|
+
