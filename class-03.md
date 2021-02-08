@@ -49,9 +49,9 @@ An array is a special type of variable. It doesn't just store one value; it stor
 * *VALUES IN ARRAYS*
 Values in an array are accessed as if they are in a numbered list.
  It is important to know that the numbering of this list starts at zero (not one).
-  ![image](image/img2.jpg)
+  ![image](image/img2.JPG)
  * *index* :is automatically number given to each item in the array,used to access specific items in the array.
-  ![image](image/img3.jpg)
+  ![image](image/img3.JPG)
 * *length* holds the number of items in the array.
 * *ACCESSING & CHANGING VALUES IN AN ARRAY*
 To access a value from an array, after the array name you specify the index number for that value inside square brackets.
@@ -59,9 +59,9 @@ You can change the value of an item an array by selecting it and assigning it a 
    example: `colors[2] = 'beige ' ;`
   ### SWITCH STATEMENTS
   *A switch statement* starts with a variable called the switch value. Each case indicates a possible value for this variable and the code that should run if the variable matches that value.
-  ![image](image/img4.jpg)
+  ![image](image/img4.JPG)
  *  IF...ELSE VS. SWITCH
-  ![IMAGE](image/img5.jpg)
+  ![IMAGE](image/img5.JPG)
 * type coercion:that means JavaScript can convert data types behind the scenes to complete an operation.
  ### LOOPS 
 * loops check a condition . 
