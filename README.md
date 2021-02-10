@@ -31,8 +31,8 @@ is about notes and what i will summarize from
 |[class-02](https://ala2hamdan.github.io/reading-notes/class-02)|HTML TEXT && JS CONDITION|
 | [class-03](https://ala2hamdan.github.io/reading-notes/class-03)  |HTML( LIST & BOXES) & JS(switch statements)   |
 |----|-----|
-| [class-04]() |     |
+| [class-04](https://ala2hamdan.github.io/reading-notes/class-04) |   LINKES & JA FUNCTION   |
 |-----|----|
-|     |   |
+| [class-05](https://ala2hamdan.github.io/reading-notes/class-05)     |CSS (IMAGE & COLOR & TEXT )   |
 |----|---|
 
