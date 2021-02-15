@@ -36,4 +36,6 @@ is about notes and what i will summarize from
 | [class-05](https://ala2hamdan.github.io/reading-notes/class-05)     |CSS (IMAGE & COLOR & TEXT )   |
 |----|---|
 |[class-06](https://ala2hamdan.github.io/reading-notes/class-06)|Object in JavaScript
+|--------|-------|
+|[class-07](https://ala2hamdan.github.io/reading-notes/class-07)| HTML TABLE &  JS Objects|
 
