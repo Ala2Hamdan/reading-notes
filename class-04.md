@@ -36,7 +36,7 @@ files and folders on a website is described using the same terminology as a fami
 - positioning schemes:
 1.  Normal flow
 2. Relative Positioning 
-3. Ab solute positioning 
+3. Absolute positioning 
 * box offset:
 use this properties to tell the browser how far from the top or bottom and left or right it should be placed.
 * Screen Sizes:

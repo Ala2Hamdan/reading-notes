@@ -38,4 +38,7 @@ is about notes and what i will summarize from
 |[class-06](https://ala2hamdan.github.io/reading-notes/class-06)|Object in JavaScript
 |--------|-------|
 |[class-07](https://ala2hamdan.github.io/reading-notes/class-07)| HTML TABLE &  JS Objects|
+|[class-08](https://ala2hamdan.github.io/reading-notes/class-08)| CSS Layout |
+|-------|-------|
+
 
