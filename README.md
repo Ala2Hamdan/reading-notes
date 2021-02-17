@@ -25,6 +25,7 @@ is about notes and what i will summarize from
 |---------|-------|
 
 # Code 201 Reading Notes: 
+
 |name document | content |
 |----|-----|
 | [class-01](https://ala2hamdan.github.io/reading-notes/class-01 ) | a review of HTML & CSS & JS |
@@ -40,5 +41,7 @@ is about notes and what i will summarize from
 |[class-07](https://ala2hamdan.github.io/reading-notes/class-07)| HTML TABLE &  JS Objects|
 |[class-08](https://ala2hamdan.github.io/reading-notes/class-08)| CSS Layout |
 |-------|-------|
-|[class-09](https://ala2hamdan.github.io/reading-notes/class-09)|
+|[class-09](https://ala2hamdan.github.io/reading-notes/class-09)|Form & Event |
+|-----|---|
+|[class-10](https://ala2hamdan.github.io/reading-notes/class-10)|Error Handling & Debugging|
 
