@@ -7,19 +7,27 @@ The Stack :
 * UNDERSTANDING SCOPE :
 In the interpreter, each execution context has its own va ri ables object. It holds the variables, functions, and parameters available within it.Each execution context can also access its parent's v a ri ables object.
 * UNDERSTANDING ERRORS:
-![]()
-![]()
+![img](image/er1.png)
+![img](image/er2.png)
 * BROWSER DEV TOOLS & JAVASCRIPT CONSOLE
 |CHROME/ OPERA| INTERNET EXPLORER
 |-----|----|
 | On a PC, press the F12 key or:|Press the F12 key or:|
+|---|---|
 | Go to the options menu (or three line menu icon)|Go to the settings menu in the top-right|
+|---|---|
  | Select Toots or More tools.|Select developer tools|  |
+ |----|---|
 | Select JavaScript Console or Developer Tools|   |
+|----|----|
 |On a Mac press Alt + Cmd + J. Or:|  |
+|---|----|
 | Go to the View menu.|   |
+|----|---|
 | Select Developer.|  |
+|---|---|
 | Open the JavaScript Console or Developer Tools|   |
+|----|---|
 |option and select Console.|   |
 |-----|---|
 * CONSOLE METHODS:
