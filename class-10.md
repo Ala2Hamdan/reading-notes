@@ -10,6 +10,7 @@ In the interpreter, each execution context has its own va ri ables object. It ho
 ![img](image/er1.png)
 ![img](image/er2.png)
 * BROWSER DEV TOOLS & JAVASCRIPT CONSOLE
+
 |CHROME/ OPERA| INTERNET EXPLORER
 |-----|----|
 | On a PC, press the F12 key or:|Press the F12 key or:|
