@@ -49,4 +49,5 @@ is about notes and what i will summarize from
 |[class-12](https://ala2hamdan.github.io/reading-notes/class-12)| Chart.js, Canvas|
 |[class-13](https://ala2hamdan.github.io/reading-notes/class-13)|the Past, Present, and Future of Local Storage for Web Applications|
 |[class-14](https://ala2hamdan.github.io/reading-notes/class-14)|CSS |
+|[class-14b](https://ala2hamdan.github.io/reading-notes/class-14b)|What Google Learned From Its Quest to Build the Perfect Team|
 
