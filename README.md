@@ -44,8 +44,10 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 
 |name document | content |
 |----|-----|
-|[Reading-01](https://ala2hamdan.github.io/reading-notes/reading-01)| RESPONSIVE WEB DESIGN and FLOATS|           
-
+|[Reading-01](https://ala2hamdan.github.io/reading-notes/reading-01)| RESPONSIVE WEB DESIGN and FLOATS|
+|[Reading-02](https://ala2hamdan.github.io/reading-notes/reading-02)|  jQuery|
+|[Reading-03](https://ala2hamdan.github.io/reading-notes/reading-03)| Javascript Templating and Flexbox |     
+|[reading-04](https://ala2hamdan.github.io/reading-notes/reading-04)| Grid |
 
 
 ## Code 401 - Advanced Software Development 
