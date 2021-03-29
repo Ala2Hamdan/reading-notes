@@ -50,6 +50,11 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 |[reading-04](https://ala2hamdan.github.io/reading-notes/reading-04)| Grid |
 |[Reading-05](https://ala2hamdan.github.io/reading-notes/reading-05)|Heroku |
 |[Reading-06](https://ala2hamdan.github.io/reading-notes/reading-06)|Node|
-|----|---|
+|[Reading-07](https://ala2hamdan.github.io/reading-notes/reading-06)||
+|[Reading-08](https://ala2hamdan.github.io/reading-notes/reading-06)|SQL|
+|||
+|||
+|||
+|||
 ## Code 401 - Advanced Software Development 
 
