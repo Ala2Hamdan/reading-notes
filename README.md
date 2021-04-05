@@ -54,7 +54,7 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 |[Reading-08](https://ala2hamdan.github.io/reading-notes/reading-08)|Structured Query Language (SQL)|
 |||
 |||
-|||
-|||
+|[reading-11](https://ala2hamdan.github.io/reading-notes/reading-11)||
+|[reading-12](https://ala2hamdan.github.io/reading-notes/reading-12)|EJS Partials|
 ## Code 401 - Advanced Software Development 
 
