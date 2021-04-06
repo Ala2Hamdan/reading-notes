@@ -16,6 +16,6 @@
 - It does not cause any observable side effects
 
 * if the function do or read an external file its not a pure function 
- * one of advantage of pure function it's easier to test
+* one of advantage of pure function it's easier to test
 
 

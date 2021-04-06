@@ -50,11 +50,15 @@ I am Alaa  ALHamdan ,I have bachelor degree in management information systems at
 |[reading-04](https://ala2hamdan.github.io/reading-notes/reading-04)| Grid |
 |[Reading-05](https://ala2hamdan.github.io/reading-notes/reading-05)|Heroku |
 |[Reading-06](https://ala2hamdan.github.io/reading-notes/reading-06)|Node|
-|[Reading-07](https://ala2hamdan.github.io/reading-notes/reading-07)||
+|[Reading-07](https://ala2hamdan.github.io/reading-notes/reading-07)|API|
 |[Reading-08](https://ala2hamdan.github.io/reading-notes/reading-08)|Structured Query Language (SQL)|
-|||
-|||
-|[reading-11](https://ala2hamdan.github.io/reading-notes/reading-11)||
-|[reading-12](https://ala2hamdan.github.io/reading-notes/reading-12)|EJS Partials|
+|[reading-09](https://ala2hamdan.github.io/reading-notes/reading-09)|Functional Programming in Javascript|
+|[reading-10](https://ala2hamdan.github.io/reading-notes/reading-10)|The Call Stack and Debugging|
+|[reading-11](https://ala2hamdan.github.io/reading-notes/reading-11)|EJS|
+|[reading-12](https://ala2hamdan.github.io/reading-notes/reading-12)|EJS Partials||
+|[reading-13](https://ala2hamdan.github.io/reading-notes/reading-13)| Form |
+|[reading-14](https://ala2hamdan.github.io/reading-notes/reading-14)| Database normalization|
+|    |         |
+
 ## Code 401 - Advanced Software Development 
 
