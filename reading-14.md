@@ -1,4 +1,4 @@
-# normalization
+# Normalization
 ![image](https://blog.knoldus.com/wp-content/uploads/2020/03/normal-forms-1.png)
 - Database normalization
 is a process used to organize a database into tables where every table should be has the specific topic and the supporting topics included to reduce the number of duplicate data within database. 
